@@ -6,14 +6,18 @@ The Apple Frameworks is a study of ios development to implement UI Components in
 
 ## Screenshots
 ### Light Mode
-<img title="Screenshot 1" alt="Screenshot 1" width="30%" src="Resources/Home.png">
-<img title="Screenshot 2" alt="Screenshot 2" width="30%" src="Resources/Detail.png">
-<img title="Screenshot 3" alt="Screenshot 3" width="30%" src="Resources/Safari.png">
+<div style="display:flex;">
+  <img title="Screenshot 1" alt="Screenshot 1" width="30%" src="Resources/Home.png" style="margin-right: 10px;">
+  <img title="Screenshot 2" alt="Screenshot 2" width="30%" src="Resources/Detail.png" style="margin-right: 10px;">
+  <img title="Screenshot 3" alt="Screenshot 3" width="30%" src="Resources/Safari.png" style="margin-right: 10px;">
+</div>
 
 ### Dark Mode
-<img title="Screenshot 1" alt="Screenshot 1" width="30%" src="Resources/Home_Dark.png">
-<img title="Screenshot 2" alt="Screenshot 2" width="30%" src="Resources/Detail_Dark.png">
-<img title="Screenshot 3" alt="Screenshot 3" width="30%" src="Resources/Safari_Dark.png">
+<div style="display:flex;">
+  <img title="Screenshot 1" alt="Screenshot 1" width="30%" src="Resources/Home_Dark.png" style="margin-right: 10px;">
+  <img title="Screenshot 2" alt="Screenshot 2" width="30%" src="Resources/Detail_Dark.png" style="margin-right: 10px;">
+  <img title="Screenshot 3" alt="Screenshot 3" width="30%" src="Resources/Safari_Dark.png" style="margin-right: 10px;">
+</div>
 
 ## Installation
 
