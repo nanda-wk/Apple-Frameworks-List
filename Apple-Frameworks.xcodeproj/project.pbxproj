@@ -68,10 +68,10 @@
 				161D781A2B2E072E002DCAC5 /* Apple_FrameworksApp.swift */,
 				161D781E2B2E072F002DCAC5 /* Assets.xcassets */,
 				16F9AEE92B3E8BCD00E835B3 /* Model */,
-				161D78202B2E072F002DCAC5 /* Preview Content */,
 				16F9AEE62B3E8B6E00E835B3 /* Screens */,
 				16F9AEED2B3E8C1600E835B3 /* UIKit Components */,
 				16F9AEEA2B3E8BE500E835B3 /* Views */,
+				161D78202B2E072F002DCAC5 /* Preview Content */,
 			);
 			path = "Apple-Frameworks";
 			sourceTree = "<group>";
